@@ -19,7 +19,7 @@
 //     cout << "Moi nhap nhiet do ban dau, nhiet do ket thuc, buoc nhay: ";
 //     cin >> start >> end >> step;
 //     for(int C = start; C <= end; C += step){
-//         float F = C * 9/5 + 32;
+//         float F = C * 9.0/5 + 32;
 //         cout << "Nhiet do " << C << " do C doi sang " << F << " do F" << endl;
 //     }
 // }

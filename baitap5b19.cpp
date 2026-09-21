@@ -90,6 +90,7 @@ class xeTai : public PhuongTien{
 };
 
 int main(){
+    //có thể tạo nhiều loại xe khác nhau và dung for để in ra theo đề bài là tạo mảng
     xeMay xm1("Honda",100, 2);
     xm1.thongtin();
     cout << "Thoi gian di het quang duong la: " <<xm1.tinhthoigian(100) << "h" << endl;
